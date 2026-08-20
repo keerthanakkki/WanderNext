@@ -4,17 +4,6 @@
   ✈️ A full-featured travel booking and exploration web app built with <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>MongoDB</strong>, <strong>EJS</strong>, and <strong>Cloudinary</strong> — featuring dynamic UI, authentication, cloud image uploads, and MVC architecture.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-18.x-green?logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-4.x-black?logo=express" />
-  <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/EJS-Templating-blue" />
-  <img src="https://img.shields.io/badge/Cloudinary-Image%20Uploads-yellow?logo=cloudinary&logoColor=purple" />
-  <img src="https://img.shields.io/badge/Passport.js-Authentication-orange" />
-</p>
-
----
-
 ## 🔥 Features
 
 - 🔐 Secure user authentication with **Passport.js**
@@ -23,8 +12,7 @@
 - 💬 Flash messages for real-time UI feedback
 - 📦 Modular MVC architecture: **Controllers, Models, Routes, Views**
 - 🌍 Dynamic pages rendered with **EJS**
-- ⚙️ Deploy-ready with **Netlify** and `serverless-http`
-
+  
 ---
 
 ## 📁 Project Structure
